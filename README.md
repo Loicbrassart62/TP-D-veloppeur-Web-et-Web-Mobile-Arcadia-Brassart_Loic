@@ -54,26 +54,13 @@ Le client à besoin de sécuriser l'accès aux modifications des données et le 
 
 Le directeur José souhaite par ailleurs mettre en évidences tout les animaux du zoo qui seront réparti par habitat (savane, jungle, marais).
 
-Plusieurs choix s'offrent à moi quand aux technologies à employer pour le site. Premièrement le design du site, du HTML 5 pour la stucture ainsi que du CSS 3 et du Javascript pour la stylisation et deuxièment du PHP pour intégrer les données directement sur le site et une base de données avec phpMyAdmin.
+Plusieurs choix s'offrent à moi quand aux technologies à employer pour le site. Premièrement le design du site, du HTML 5 pour la stucture ainsi que du CSS 3 et du Javascript pour la stylisation et deuxièment du PHP pour intégrer les données directement sur le site et une base de données MySQL avec phpMyAdmin.
 
-Mais après réflexion, Mr Parrot souhaite réellement se moderniser. Souhaite réllement faire entrer son garage dans l'air du temps et affronter sa concurrence. Donc m'est venu l'idée que Mr Parrot déciderai peut être un jour de créer, en plus, une application mobile, ou proposer un système interractif, type panneau d'affichage tactile, pour mettre en avant ses services et véhicules.
+Pour le language utilisé pour le Backend, le PHP est un language que j'ai appris durant les cours sur STUDI, language très utilisé de nos jours, et des serveurs pouvant être simples à configurer. Les données seront confiées à MySQL pour répondre au besoin de l'examen. De ce choix, je choisirais le PHP ainsi que MySQL.
 
-En clair des données et de multiples accès différents à celles-ci.
+Pour la partie Frontend, le HTML 5 sera présent pour la structure du site c'est un language très simple à mettre en place, pour le style le CSS 3 fera place et en dernier du JavaScript pour des fonctionnalités supplémentaires.
 
-Donc la solution, API pour le Backend et une interface interractive autonome pour le Frontend s'est tout de suite imposée. 
-
-Du coté de l'API, tous frameworks plus ou moins dédiés et languages de programmation web peuvent faire l'affaire. De FastAPI, en passant par API Plateform, puis Fastify, ou encore du code maison, le choix est vaste.
-
-Pour le language utilisé pour le Backend, le PHP s'est imposé. Language que je connais depuis sa version 3, language très utilisé de nos jours, et des serveurs pouvant être simples à configurer. Les données seront confiées à MySQL pour répondre au besoin de l'examen. De ce choix, me voila à la recherche d'une tecnologie pour développer mon API.
-
-Ayant récement découvert `Slim PHP`, je me tourne naturellement vers ce framework. Bien plus léger que Symfony, bien plus agréable et performant, je trouve ce choix cohérent. Adopté!
-
-Pour la partie Frontend, le choix a été bien plus facile. Fervant passionné de `ReactJs`, il était assuré que j'emploie cette technologie pour développer cet examen. En plus ça tombe très bien car celà ma permet de réaliser une interface graphique Web et Web mobile de qualité, dynamique et à l'expérience utilisateur de qualité pour le projet de Mr Parrot ;-)
-Je n'oublie par le couple HTML 5 et CSS 3 pour architecturer proprement les pages Web, tout en les mettant en beauté facilement.
-
-Deplus, comme écrit plus haut, `ReactJs` peut être facilement adapté en `React Native` pour créer une application mobile par exemple!
-
-Ceci donc, pour les grandes lignes quand à mes choix technologiques.
+Voici donc tous mes choix pour les technologies à employées.
 
 ### <span style="text-decoration:underline">Configuration de l'environement de travail</span>
 
