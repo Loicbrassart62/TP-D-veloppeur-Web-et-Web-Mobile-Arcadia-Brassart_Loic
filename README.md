@@ -29,7 +29,7 @@ Nous vous demandons de vous mettre en situation d’examen. Prenez le temps de l
 
 ## Informations
 
-**Github** : https://github.com/Loicbrassart62/ECF_Graduate-Developpeur-Mobile-iOS-nov24-dec24__copiearendre_Brassart_Loic
+**Github** : https://github.com/Loicbrassart62/TP_DWWM_Nov-Dec24-copiearendre_BRASSART_Loic
 
 **Démonstration** : <span style="color:red">**Url du site**</span>
 
