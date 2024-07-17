@@ -33,8 +33,8 @@ Nous vous demandons de vous mettre en situation d’examen. Prenez le temps de l
 
 **Démonstration** : <span style="color:red">**Url du site**</span>
 
-    Adresse email démo      : admin@garage-vparrot.com
-    Mot de passe démo       : admin
+    Adresse email démo      : 
+    Mot de passe démo       : 
 
 **Trello** : <span style="color:red">**[url du trello](https://trello.com/invite/b/662f3fc9a1272f660ed52479/ATTIa3128884f4bb6fc2ddfe9bdd7ed851cbF02B469D/arcadia-ecf-brassartloic)**</span>
 
