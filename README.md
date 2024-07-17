@@ -99,6 +99,8 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
   Ubuntu est une distribution Linux, ou plutôt un système d'exploitation basé sur le noyau Linux. C'est un logiciel open-source et gratuit que des millions d'utilisateurs peuvent utiliser, distribuer et modifier le code qui compose ce système d'exploitation.
 
   Pour installer Unbutu rien de plus simple. Nous allons procéder à l'installation et activer le sous-système Linux et installer Ubuntu dans Windows.
+  
+- **Étape 1: activer le sous-système Linux**
 
   - **1-**
     Commencez à taper «Activer et désactiver les fonctionnalités Windows» dans le champ de recherche du menu Démarrer, puis sélectionnez le panneau de commande lorsqu'il apparaît.
