@@ -48,11 +48,11 @@ Nous vous demandons de vous mettre en situation d’examen. Prenez le temps de l
 
 ### <span style="text-decoration:underline">Résumé du besoin et choix des technologies</span>
 
-Monsieur Parrot à un besoin en réalité plutôt simple. Un site vitrine dans lequel vont devoir s'afficher des informations statiques, et pas mal d'informations dites dynamiques.
+Le directeur José du zoo Arcadia à un besoin d’une application web qui permettrai aux visiteurs de visualiser les animaux, leurs états et visualiser les services ainsi que les horaires du zoo.
 
-Le client à besoin de sécuriser l'accès aux modifications des données, et d'attribuer 2 rôles: Lui, l'administrateur, et un deuxième rôle pour ses employés.
+Le client à besoin de sécuriser l'accès aux modifications des données, et d'attribuer 3 rôles: Lui, l'administrateur, et un deuxième rôle pour les employés ainsi qu'un troisème role le vétérinaire.
 
-Mr Parrot souhaite par ailleurs mettre en évidences la liste des véhicules qu'il propose à la vente. Liste complètement dynamique et interractive avec la meilleurs expérience utilisateur possible pour se démarquer de ses concurrents.
+Le directeur José souhaite par ailleurs mettre en évidences tout les animaux du zoo qui seront réparti par habitat (savane, jungle, marais).
 
 Plusieurs choix s'offrent à moi quand aux technologies à employer. Le site, résultat final, est relativement simple. Une première idée serait d'utiliser un framework de type Symfony pour arriver à mes fins. Un peu de javascript pour les interractions avec le visiteur et le tour est joué.
 
