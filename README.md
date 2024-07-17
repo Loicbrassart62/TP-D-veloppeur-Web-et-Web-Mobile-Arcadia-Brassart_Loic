@@ -48,9 +48,9 @@ Nous vous demandons de vous mettre en situation d’examen. Prenez le temps de l
 
 ### <span style="text-decoration:underline">Résumé du besoin et choix des technologies</span>
 
-Le directeur José du zoo Arcadia à un besoin d’une application web qui permettrai aux visiteurs de visualiser les animaux, leurs états et visualiser les services ainsi que les horaires du zoo.
+Le directeur José du zoo Arcadia à un besoin d’une application web dont les couleurs et le thème font penser à de l’écologie et montrer que le zoo est entièrement indépendant au niveau des énergies et il faut que lorsqu’un utilisateur consulte l’application, il ressente les valeurs de l’écologie. Les visiteurs pourrons visualiser les animaux, leurs états et visualiser les services ainsi que les horaires du zoo.
 
-Le client à besoin de sécuriser l'accès aux modifications des données dont les couleurs et le thème font penser à de l’écologie, le zoo est entièrement indépendant au niveau des énergies et il faut que lorsqu’un utilisateur consulte l’application, il ressente les valeurs de l’écologie dont nous somme fier et ke directeur veut attribuer 3 rôles: Lui, l'administrateur, et un deuxième rôle pour les employés ainsi qu'un troisème role pour le vétérinaire.
+Le client à besoin de sécuriser l'accès aux modifications des données et le directeur veut attribuer 3 rôles: Lui, l'administrateur, et un deuxième rôle pour les employés ainsi qu'un troisème role pour le vétérinaire.
 
 Le directeur José souhaite par ailleurs mettre en évidences tout les animaux du zoo qui seront réparti par habitat (savane, jungle, marais).
 
