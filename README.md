@@ -1,6 +1,6 @@
 # ÉVALUATION EN COURS DE FORMATION
 ## Graduate Développeur Web et Web Mobile 
-###### (Android, Angular, Flutter, Front End, Full Stack, IOS, PHP/Symfony)
+
 
 ---
 
