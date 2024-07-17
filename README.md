@@ -96,7 +96,7 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter avec Unbu
 
 - **Installation de XAMPP**
 
-    LAMP est un acronyme pour Linux, Apache, MySQL, PHP. C'est une pile logicielle comprenant le système d'exploitation, un serveur HTTP, un système de gestion de bases de données et un langage de programmation interprété, et qui permet de mettre en place un serveur web.
+    XAMPP est un ensemble de logiciels permettant de mettre en place un serveur Web local, un serveur FTP et un serveur de messagerie électronique.
 
     Pour installer *LAMP* rien de plus simple. Nous allons procéder à l'installation des paquets à jour de votre distribution Linux:
 
