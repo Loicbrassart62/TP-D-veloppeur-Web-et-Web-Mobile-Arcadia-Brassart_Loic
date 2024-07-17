@@ -64,9 +64,9 @@ Voici donc tous mes choix pour les languages à employées.
 
 ### <span style="text-decoration:underline">Configuration de l'environement de travail</span>
 
-Travaillant sur un système d'exploitation de type `Linux`, les informations ci-dessous y seront bien évidement destinées.
+Travaillant sur un système d'exploitation de type `Windows`, les informations ci-dessous y seront bien évidement destinées.
 
-Les commandes sont à titre d'exemple. Elles devront être adaptées au système d'exploitation utilisé. Ici, je représenterai les bases `Debian`.
+Les commandes seront de type `Linux` mais elle pouront être exécuter avec Unbuntu.
 
 - **Serveur:**
     + Apache
