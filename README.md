@@ -54,7 +54,7 @@ Le client à besoin de sécuriser l'accès aux modifications des données et le 
 
 Le directeur José souhaite par ailleurs mettre en évidences tout les animaux du zoo qui seront réparti par habitat (savane, jungle, marais).
 
-Plusieurs choix s'offrent à moi quand aux technologies à employer. Le site, résultat final, est relativement simple. Une première idée serait d'utiliser un framework de type Symfony pour arriver à mes fins. Un peu de javascript pour les interractions avec le visiteur et le tour est joué.
+Plusieurs choix s'offrent à moi quand aux technologies à employer pour le site. Premièrement le design du site, du HTML 5 pour la stucture ainsi que du CSS 3 et du Javascript pour la stylisation et deuxièment du PHP pour intégrer les données directement sur le site et une base de données avec phpMyAdmin.
 
 Mais après réflexion, Mr Parrot souhaite réellement se moderniser. Souhaite réllement faire entrer son garage dans l'air du temps et affronter sa concurrence. Donc m'est venu l'idée que Mr Parrot déciderai peut être un jour de créer, en plus, une application mobile, ou proposer un système interractif, type panneau d'affichage tactile, pour mettre en avant ses services et véhicules.
 
