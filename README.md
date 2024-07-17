@@ -94,7 +94,7 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter avec Unbu
 
 ### <span style="text-decoration:underline">Installer l'application en local</span>
 
-- **Que la lumière fût: *LAMP* (ou *XAMP* pour Windows)**
+- **Installation de XAMPP**
 
     LAMP est un acronyme pour Linux, Apache, MySQL, PHP. C'est une pile logicielle comprenant le système d'exploitation, un serveur HTTP, un système de gestion de bases de données et un langage de programmation interprété, et qui permet de mettre en place un serveur web.
 
