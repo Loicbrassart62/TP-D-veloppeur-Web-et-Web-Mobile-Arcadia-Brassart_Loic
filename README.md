@@ -84,13 +84,13 @@ Les commandes sont à titre d'exemple. Elles devront être adaptées au système
 - **Serveur:**
     + Apache
     + PHP 8.2.12
-    + MySQL 8.1 / PDO
+    + phpMyAdmin 5.2.1 / PDO
       
 
 
 - **Backend (API)**
     + PHP 8.2.12
-    + MySQL 8.2.12 / PDO
+    + phpMyAdmin 5.2.1 / PDO
       
       
 
