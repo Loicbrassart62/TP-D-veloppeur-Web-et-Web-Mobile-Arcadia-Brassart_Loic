@@ -94,7 +94,9 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
 
 ### <span style="text-decoration:underline">Installer l'application en local</span>
 
-- **Installation de XAMPP**
+- **Installation de Unbutu sur Windows**
+
+  Ubuntu est une distribution Linux, ou plutôt un système d'exploitation basé sur le noyau Linux. C'est un logiciel open-source et gratuit que des millions d'utilisateurs peuvent utiliser, distribuer et modifier le code qui compose ce système d'exploitation.
 
 
 
