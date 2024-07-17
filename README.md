@@ -100,7 +100,7 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
 
   Pour installer Unbutu rien de plus simple. Nous allons procéder à l'installation et activer le sous-système Linux et installer Ubuntu dans Windows.
   
-- **Étape 1: activer le sous-système Linux**
+- **Étape 1: Activer le sous-système Linux**
 
   - **1-**
     Commencez à taper «Activer et désactiver les fonctionnalités Windows» dans le champ de recherche du menu Démarrer, puis sélectionnez le panneau de commande lorsqu'il apparaît.
@@ -110,6 +110,23 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
 
   - **3-**
     Attendez que vos modifications soient appliquées, puis cliquez sur le bouton Redémarrez maintenant pour redémarrer votre ordinateur.
+
+- **Étape 2: Installer et mettre à jour Ubuntu Linux**
+
+  - **1-**
+    Nous allons maintenant installer une distribution Linux. Aller à Bouton Démarrer> Microsoft Store.
+
+  - **2-**
+    Pour voir les distributions Linux disponibles, saisissez «Linux» dans le champ de recherche, puis cliquez sur Exécutez Linux sur Windows.
+
+  - **3-**
+    Cliquez sur la distribution Linux que vous souhaitez installer. Dans ce guide, nous allons choisir Ubuntu et cliquez sur Obtenez.
+
+  - **4-**
+    Windows téléchargera et installera Ubuntu. Quand c'est fini, cliquez sur le Lancement.
+
+  - **5-**
+    Une fenêtre de terminal apparaîtra. Attendez qu'Ubuntu termine l'installation, puis créez un nouveau nom d'utilisateur et mot de passe Linux lorsque vous y êtes invité. Vous êtes maintenant à votre nouvelle ligne de commande Linux!
 
 
 
