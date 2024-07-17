@@ -83,22 +83,20 @@ Les commandes sont à titre d'exemple. Elles devront être adaptées au système
 
 - **Serveur:**
     + Apache
-    + PHP 8.1
+    + PHP 8.2.12
     + MySQL 8.1 / PDO
 
 
 - **Backend (API)**
-    + PHP 8.1
-    + MySQL 8.0 / PDO
-    + Slim 4
-
+    + PHP 8.2.12
+    + MySQL 8.2.12 / PDO
+      
 
 - **Frontend**
     + HTML 5
     + CSS 3
     + Javascript
-    + ReactJs
-
+      
 
 ---
 
