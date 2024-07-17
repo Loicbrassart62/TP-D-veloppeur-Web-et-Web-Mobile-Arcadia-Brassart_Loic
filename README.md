@@ -31,7 +31,7 @@ Nous vous demandons de vous mettre en situation d’examen. Prenez le temps de l
 
 **Github** : https://github.com/Loicbrassart62/ECF_Graduate-Developpeur-Mobile-iOS-nov24-dec24__copiearendre_Brassart_Loic
 
-**Démonstration** : <span style="color:red">**url du site**</span>
+**Démonstration** : <span style="color:red">**Url du site**</span>
 
     Adresse email démo      : admin@garage-vparrot.com
     Mot de passe démo       : admin
