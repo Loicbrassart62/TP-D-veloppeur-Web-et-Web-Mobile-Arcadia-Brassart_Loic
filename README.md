@@ -66,7 +66,7 @@ Voici donc tous mes choix pour les languages à employées.
 
 Travaillant sur un système d'exploitation de type `Windows`, les informations ci-dessous y seront bien évidement destinées.
 
-Les commandes seront de type `Linux` mais elle pouront être exécuter avec Unbuntu dans `Windows`.
+Les commandes seront de type `Linux` mais elle pouront être exécuter sous système `Linux` qui se nommera `Unbuntu`.
 
 - **Serveur:**
     + Apache
