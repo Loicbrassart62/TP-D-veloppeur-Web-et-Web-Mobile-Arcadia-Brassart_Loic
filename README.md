@@ -111,7 +111,7 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
   - **3-**
     Attendez que vos modifications soient appliquées, puis cliquez sur le bouton Redémarrez maintenant pour redémarrer votre ordinateur.
 
-- **Étape 2: Installer et mettre à jour Ubuntu Linux**
+- **Étape 2: Installer et mettre à jour Ubuntu**
 
   - **1-**
     Nous allons maintenant installer une distribution Linux. Aller à Bouton Démarrer> Microsoft Store.
@@ -127,6 +127,12 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
 
   - **5-**
     Une fenêtre de terminal apparaîtra. Attendez qu'Ubuntu termine l'installation, puis créez un nouveau nom d'utilisateur et mot de passe Linux lorsque vous y êtes invité. Vous êtes maintenant à votre nouvelle ligne de commande Linux!
+    
+- **Installation de XAMPP**
+
+    XAMPP est un ensemble de logiciels permettant de mettre en place un serveur Web local, un serveur FTP et un serveur de messagerie électronique.
+
+    Pour installer *LAMP* rien de plus simple. Nous allons procéder à l'installation des paquets à jour de votre distribution Linux:
 
 
 
