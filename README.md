@@ -94,6 +94,7 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
 
 ### <span style="text-decoration:underline">Installer l'application en local</span>
 
+- **Installation de XAMPP**
 
 
 
