@@ -44,7 +44,7 @@ Nous vous demandons de vous mettre en situation d’examen. Prenez le temps de l
 
 ---
 
-## Réflexion et configuration de l'environement de travail
+## Réflexion initiale technologique sur le sujet et configuration de l'environement de travail
 
 ### <span style="text-decoration:underline">Résumé du besoin et choix des technologies</span>
 
