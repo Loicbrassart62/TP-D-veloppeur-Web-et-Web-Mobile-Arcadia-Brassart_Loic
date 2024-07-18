@@ -55,7 +55,8 @@ Financièrement, Arcadia se porte bien et les animaux y sont heureux, ce qui fai
 Josette a choisi DevSoft, où je suis embauché après l’obtention de mon diplôme. Ma mission est de créer cette application web, contribuant ainsi à améliorer la notoriété et l'image de marque du zoo Arcadia, tout en offrant une expérience enrichissante et interactive aux visiteurs.
 
 ### <span style="text-decoration:underline">Cahier des charges</span> 
-<span style="text-decoration:underline">Cahier des charges</span> 
+
+- **Avis**
 
 
 ### <span style="text-decoration:underline">Configuration de l'environement de travail</span>
