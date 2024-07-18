@@ -166,6 +166,15 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
       l'installation cocher la case pour ouvrir le Control Panel.
 
     - **Étape 3: Configurer le Control Panel de XAMPP**
+      
+    - **1-**
+      Ouvrez le Control Panel de XAMPP, ensuite vous arriverez sur la page principal du Control Panel.
+
+    - **2-**
+      Dans la colonne Action cliquer sur Start pour le module Apache ainsi que MySQL, les modules vont s'éxecuter pour le bon fonctionnement du serveur.
+
+    - **3-**
+      Ensuite cliquer sur Admin pour le module MySQL et vous arriverez sur la page phpMyAdmin ou en tapant directement dans votre barre de recherche localhost.
 
  
 
