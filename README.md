@@ -48,11 +48,11 @@ Nous vous demandons de vous mettre en situation d’examen. Prenez le temps de l
 
 ### <span style="text-decoration:underline">Résumé du projet ainsi que du cahiers des charges</span>
 
-Le directeur José du zoo Arcadia à un besoin d’une application web dont les couleurs et le thème font penser à de l’écologie et montrer que le zoo est entièrement indépendant au niveau des énergies et il faut que lorsqu’un utilisateur consulte l’application, il ressente les valeurs de l’écologie. Les visiteurs pourront visualiser les animaux, leur état et visualiser les services ainsi que les horaires du zoo.
+Arcadia est un zoo français, établi près de la forêt de Brocéliande en Bretagne depuis 1960. Abritant une diversité d’animaux répartis par habitat, comme la savane, la jungle et les marais, le zoo met un point d’honneur à assurer la santé et le bien-être de ses pensionnaires. Chaque jour, plusieurs vétérinaires effectuent des contrôles rigoureux avant l’ouverture pour garantir que les animaux sont en bonne santé. La nourriture des animaux est soigneusement dosée selon les recommandations vétérinaires.
 
-Le client à besoin de sécuriser l'accès aux modifications des données et le directeur veut attribuer 3 rôles: Lui, l'administrateur, et un deuxième rôle pour les employés ainsi qu'un troisème role pour le vétérinaire.
+Financièrement, Arcadia se porte bien et les animaux y sont heureux, ce qui fait la fierté de José, le directeur du zoo, qui nourrit de grandes ambitions pour l'avenir. Bien que José ne soit pas à l’aise avec l’informatique, il aspire à créer une application web pour permettre aux visiteurs de visualiser les animaux, connaître leur état de santé et consulter les services et horaires du zoo. Ne sachant pas comment réaliser ce projet, José a demandé à son assistante, Josette, de trouver une entreprise capable de développer cette application.
 
-Le directeur José souhaite par ailleurs mettre en évidences tout les animaux du zoo qui seront réparti par habitat (savane, jungle, marais).
+Josette a choisi DevSoft, où je suis embauché après l’obtention de mon diplôme. Ma mission est de créer cette application web, contribuant ainsi à améliorer la notoriété et l'image de marque du zoo Arcadia, tout en offrant une expérience enrichissante et interactive aux visiteurs.
 
 ## Partie 2 : Cahiers des charges 
 
