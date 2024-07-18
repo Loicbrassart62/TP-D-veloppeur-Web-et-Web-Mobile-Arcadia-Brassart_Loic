@@ -391,19 +391,13 @@ C'est pourquoi, aucune liaison / relation ne sera représentée sur la modélisa
 <span style="color:red">**[Polices d'écriture 2](https://fonts.google.com/specimen/Gloria+Hallelujah?preview.layout=grid&query=gloria)**</span>
 
 
-### <span style="text-decoration:underline">Logo</span>
-
-<span style="color:red">**logo du garage**</span>
-
-
-
 ## Maquettes pour le site web
 
 ### <span style="text-decoration:underline">Wireframe version Mobile</span>
 
-<span style="color:red">**wireframe mobile**</span>
+<span style="color:red">**[Wireframe version Mobile](https://github.com/Loicbrassart62/TP_DWWM_Nov-Dec24-copiearendre_BRASSART_Loic/blob/main/Palette%20de%20couleurs.pdf)**</span>
 
 
 ### <span style="text-decoration:underline">Wireframe version Web</span>
 
-<span style="color:red">**wireframe web**</span>
+<span style="color:red">**[Wireframe version Web](https://github.com/Loicbrassart62/TP_DWWM_Nov-Dec24-copiearendre_BRASSART_Loic/blob/main/Palette%20de%20couleurs.pdf)**</span>
