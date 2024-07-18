@@ -157,7 +157,7 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
     - **Étape 1: Télécharger XAMPP sur windows**
    
     - **5-**
-    **Lien pour télécharger XAMPP ** : <span style="color:red">**[url du trello](https://trello.com/invite/b/662f3fc9a1272f660ed52479/ATTIa3128884f4bb6fc2ddfe9bdd7ed851cbF02B469D/arcadia-ecf-brassartloic)**</span>
+    **Lien pour télécharger XAMPP ** : <span style="color:red">**[url de xampp](https://www.apachefriends.org/download.html)**</span>
 
  
 
