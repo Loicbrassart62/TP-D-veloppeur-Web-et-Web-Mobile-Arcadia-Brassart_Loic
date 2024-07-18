@@ -54,7 +54,7 @@ Le client à besoin de sécuriser l'accès aux modifications des données et le 
 
 Le directeur José souhaite par ailleurs mettre en évidences tout les animaux du zoo qui seront réparti par habitat (savane, jungle, marais).
 
-### <span style="text-decoration:underline">Résumé du projet ainsi que du cahiers des charges</span>
+## Partie 2 : Cahiers des charges 
 
 Plusieurs choix s'offrent à moi quand aux technologies à employer pour le site. Premièrement le design du site, du HTML 5 pour la stucture ainsi que du CSS 3 et du Javascript pour la stylisation et deuxièment du PHP pour intégrer les données directement sur le site et une base de données MySQL avec phpMyAdmin.
 
