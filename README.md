@@ -54,7 +54,7 @@ Financièrement, Arcadia se porte bien et les animaux y sont heureux, ce qui fai
 
 Josette a choisi DevSoft, où je suis embauché après l’obtention de mon diplôme. Ma mission est de créer cette application web, contribuant ainsi à améliorer la notoriété et l'image de marque du zoo Arcadia, tout en offrant une expérience enrichissante et interactive aux visiteurs.
 
-## Partie 2 : Cahiers des charges 
+### <span style="text-decoration:underline">Cahier des charges</span> 
 
 Plusieurs choix s'offrent à moi quand aux technologies à employer pour le site. Premièrement le design du site, du HTML 5 pour la stucture ainsi que du CSS 3 et du Javascript pour la stylisation et deuxièment du PHP pour intégrer les données directement sur le site et une base de données MySQL avec phpMyAdmin.
 
