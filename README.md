@@ -190,8 +190,13 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
       Aller dans le Control Panel de XAMPP, ensuite aller dans `Config` dans le module `Apache` et choisir `phpMyAdmin (config.inc.php)`.
 
     - **2-**
-      Adresse email démo      : 
-      Mot de passe démo       : 
+      Dans le fichier `config.inc.php` mettre les paramètres suivants :
+      - $cfg['Servers'][$i]['auth_type'] = 'config';
+      - $cfg['Servers'][$i]['user'] = 'root';
+      - $cfg['Servers'][$i]['password'] = '';
+      - $cfg['Servers'][$i]['extension'] = 'mysqli';
+      - $cfg['Servers'][$i]['AllowNoPassword'] = true;
+      - $cfg['Lang'] = '';
 
  
 
