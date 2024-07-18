@@ -128,14 +128,10 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
   - **5-**
     Une fenêtre de terminal apparaîtra. Attendez qu'Ubuntu termine l'installation, puis créez un nouveau nom d'utilisateur et mot de passe Linux lorsque vous y êtes invité. Vous êtes maintenant à votre nouvelle ligne de commande Linux!
     
-- **Installation de XAMPP**
-
-    XAMPP est un ensemble de logiciels permettant de mettre en place un serveur Web local, un serveur FTP et un serveur de messagerie électronique.
-
-    Pour installer XAMPP rien de plus simple. Nous allons procéder à l'installation des paquets à jour de votre distribution Linux:
-
-
-
+- **Étape 3: Installer et mettre à jour Ubuntu**
+  
+  - **1-**
+    Le moment est venu de vous assurer que votre logiciel installé est à jour. Dans Ubuntu, vous pouvez utiliser le ```bash $ apt update commande pour mettre à jour automatiquement tous les packages.
 
 ## Diagramme des Cas d'utilisations
 
