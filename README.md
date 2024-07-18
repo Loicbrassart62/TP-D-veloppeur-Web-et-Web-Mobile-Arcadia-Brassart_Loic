@@ -59,7 +59,9 @@ Josette a choisi DevSoft, où je suis embauché après l’obtention de mon dipl
 - **Avis**
   
    Description du besoin :
-    + PHP 8.2.12
+     + Un visiteur peut laisser un commentaire comprenant un pseudo et un champ texte "avis".
+     + L'avis est soumis à validation par un employé avant d'apparaître sur la page d'accueil.
+     + La soumission de l'avis se fait depuis la même page de commentaire.
   
 
 
