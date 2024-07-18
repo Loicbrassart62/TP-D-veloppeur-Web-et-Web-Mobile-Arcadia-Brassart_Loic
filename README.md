@@ -62,6 +62,12 @@ Josette a choisi DevSoft, où je suis embauché après l’obtention de mon dipl
      + Un visiteur peut laisser un commentaire comprenant un pseudo et un champ texte "avis".
      + L'avis est soumis à validation par un employé avant d'apparaître sur la page d'accueil.
      + La soumission de l'avis se fait depuis la même page de commentaire.
+
+   Spécifications fonctionnelle :
+     + Formulaire de commentaire avec champs : Pseudo, Avis (texte).
+     + Système de soumission de l'avis.
+     + Interface pour validation des avis par les employés.
+     + Les avis validés apparaissent sur la page d'accueil.
   
 
 
