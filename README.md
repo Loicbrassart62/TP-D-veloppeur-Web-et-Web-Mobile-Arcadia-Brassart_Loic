@@ -191,14 +191,14 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
 
     - **2-**
       Dans le fichier `config.inc.php` mettre les paramètres suivants :
-      /* Authentication type and info */
+       `Authentication type and info`
       - $cfg['Servers'][$i]['auth_type'] = 'config';
       - $cfg['Servers'][$i]['user'] = 'root';
       - $cfg['Servers'][$i]['password'] = '';
       - $cfg['Servers'][$i]['extension'] = 'mysqli';
       - $cfg['Servers'][$i]['AllowNoPassword'] = true;
       - $cfg['Lang'] = '';
-     /* Bind to the localhost ipv4 address and tcp */
+       `Bind to the localhost ipv4 address and tcp`
       - $cfg['Servers'][$i]['host'] = 'localhost';
       - $cfg['Servers'][$i]['connect_type'] = 'tcp';
 
