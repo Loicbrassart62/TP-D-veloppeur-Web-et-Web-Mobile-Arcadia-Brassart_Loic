@@ -115,7 +115,7 @@ Josette a choisi DevSoft, où je suis embauché après l’obtention de mon dipl
       + Tableau de bord montrant l'historique alimentaire des animaux.
         
   
-    - **Espace Connexion**
+ - **Espace Connexion**
 
     Description du besoin :
       + Connexion réservée aux administrateurs, vétérinaires et employés.
