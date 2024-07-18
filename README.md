@@ -159,6 +159,8 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
     - **1-**
      Lien pour télécharger XAMPP : <span style="color:red">[url de xampp](https://www.apachefriends.org/download.html)</span> et choisir la dernière version de XAMPP pour Windows.
 
+    - **Étape 2: Sélectionner les bons composants dans l'installation de XAMPP**
+
  
 
   
