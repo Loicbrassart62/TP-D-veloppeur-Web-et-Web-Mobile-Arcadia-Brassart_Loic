@@ -60,7 +60,7 @@ Pour le language utilisé pour le Backend, le PHP est un language que j'ai appri
 
 Pour la partie Frontend, le HTML 5 sera présent pour la structure du site c'est un language très simple à mettre en place, pour le style le CSS 3 fera place et en dernier du JavaScript pour des fonctionnalités supplémentaires.
 
-Voici donc tous mes choix pour les languages à employées.
+Voici donc tous mes choix pour les languages à employés.
 
 ### <span style="text-decoration:underline">Configuration de l'environement de travail</span>
 
