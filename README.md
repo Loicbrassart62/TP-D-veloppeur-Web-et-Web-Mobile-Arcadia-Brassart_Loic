@@ -377,14 +377,12 @@ C'est pourquoi, aucune liaison / relation ne sera représentée sur la modélisa
 
 
 ---
-<span style="color:red">**FICHIER charte_graphique.pdf**</span>
-
 
 ## Charte graphique
 
 ### <span style="text-decoration:underline">Polices d'écritures</span>
 
-<span style="color:red">**nom, url et licence**</span>
+<span style="color:red">**FICHIER Palette de couleurs.pdf**</span>
 
 
 ### <span style="text-decoration:underline">Palettes de couleur</span>
