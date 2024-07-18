@@ -162,8 +162,7 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
     - **Étape 2: Sélectionner les bons composants dans l'installation de XAMPP**
 
     - **1-**
-      Quand vous arriverez sur la page d'installation continuer jusqu'a la sélection des composants à installer et ensuite cocher les cases : MySQL, Apache, PHP et phpMyAdmin et continuez jusqu'a la fin de l'installation. Lorsque que vous arrivez à la fin de 
-      l'installation cocher la case pour ouvrir le Control Panel.
+      Quand vous arriverez sur la page d'installation continuer jusqu'a la sélection des composants à installer et ensuite cocher les cases : `MySQL`, `Apache`, `PHP` et `phpMyAdmin` et continuez jusqu'a la fin de l'installation. Lorsque que vous arrivez à la fin de l'installation cocher la case pour ouvrir le Control Panel.
 
     - **Étape 3: Configurer le Control Panel de XAMPP**
       
@@ -171,10 +170,10 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
       Ouvrez le Control Panel de XAMPP, ensuite vous arriverez sur la page principal du Control Panel.
 
     - **2-**
-      Dans la colonne Action cliquer sur Start pour le module Apache ainsi que MySQL, les modules vont s'éxecuter pour le bon fonctionnement du serveur.
+      Dans la colonne Action cliquer sur `Start` pour le module `Apache` ainsi que `MySQL`, les modules vont s'éxecuter pour le bon fonctionnement du serveur.
 
     - **3-**
-      Ensuite cliquer sur Admin pour le module MySQL et vous arriverez sur la page phpMyAdmin ou en tapant directement dans votre barre de recherche localhost.
+      Ensuite cliquer sur `Admin` pour le module MySQL et vous arriverez sur la page phpMyAdmin ou en tapant directement dans votre barre de recherche localhost.
 
       Vous avez tous fini d'installer XAMPP! Vous pouvez lancer un phpMyAdmin à tout moment en démarrant dans le Control Panel de XAMPP.
 
