@@ -149,7 +149,6 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
     une fois, entrez ```Y``` à l'invite pour installer les packages répertoriés.
 
     Vous avez tous fini d'installer et de mettre à jour Ubuntu Linux! Vous pouvez lancer un terminal Linux à tout moment en sélectionnant Ubuntu depuis le menu de démarrage.
-    
 
     - **Installation de XAMPP sur Windows**
   
