@@ -130,13 +130,16 @@ Josette a choisi DevSoft, où je suis embauché après l’obtention de mon dipl
 
    Description du besoin :
   
-     + Formulaire de connexion avec champs : Username (mail), Mot de passe.
-     + Formulaire de connexion avec champs : Username (mail), Mot de passe.
+     + Un visiteur peut contacter le zoo via un formulaire sur la page contact.
+     + Le formulaire comprend : Titre, Description, Mail.
+     + Envoi de la demande par mail au zoo.
+     + Réponse par mail de l'employé.
 
     Spécifications fonctionnelle :
   
-  + Formulaire de connexion avec champs : Username (mail), Mot de passe.
-  + Restrictions empêchant la création de comptes visiteurs.
+  + Formulaire de contact avec champs : Titre, Description, Mail.
+  + Envoi de la demande par mail au zoo.
+  + Interface pour les employés pour répondre aux demandes via mail.
 
     
 
