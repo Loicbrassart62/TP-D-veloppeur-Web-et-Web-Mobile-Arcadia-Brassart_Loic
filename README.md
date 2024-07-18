@@ -172,7 +172,7 @@ Voici donc tous mes choix pour les languages à employés.
 
 
 
-## Configuration de l'environement de travail
+### <span style="text-decoration:underline">Configuration de l'environnement de travail</span>
 
 ### <span style="text-decoration:underline">Installer l'application en local</span>
 
