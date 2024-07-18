@@ -4,23 +4,21 @@
 
 ## Présentation du sujet
 
-**Votre examen comporte :**
-
-✔ Cet énoncé qui vous présente le sujet de l’épreuve
-
-✔ Une copie à rendre (Excel ou Word) que vous devez télécharger, remplir informatiquement et déposer dans l’espace de dépôt prévu à cet effet.
-
-
-**Renommer votre copie à rendre Word ou Excel comme suit :**
-TP_DWWM_Sept/Oct/Nov/Déc24/Janv/Févr/Mars/Avril25_copiearendre_NOM_Prenom
-
-**Objectifs de l’évaluation :**
-L’évaluation en cours de formation que vous allez réaliser a pour vocation de figurer dans votre livret d’évaluation. Il sera donc remis à votre jury le jour des  épreuves du titre professionnel accompagné de votre évaluation et du sujet initial. 
-
-Nous vous demandons de vous mettre en situation d’examen. Prenez le temps de lire le sujet et de manipuler les annexes afin de répondre en situation professionnelle aux questions et problématiques évoquées dans le sujet
-
-
-### À vous de jouer !
+Arcadia est un zoo situé en France près de la forêt de Brocéliande, en bretagne depuis 1960. 
+Ils possèdent tout un panel d’animaux, réparti par habitat (savane, jungle, marais) et font 
+extrêmement attention à leurs santés. Chaque jour, plusieurs vétérinaires viennent afin 
+d’effectuer les contrôles sur chaque animal avant l’ouverture du zoo afin de s’assurer que tout 
+se passe bien, de même, toute la nourriture donnée est calculée afin d’avoir le bon grammage 
+(le bon grammage est précisé dans le rapport du vétérinaire). 
+Le zoo, se porte très bien financièrement, les animaux sont heureux. Cela fait la fierté de son 
+directeur, José, qui a de grandes ambitions. 
+A ce jour, l’informatique et lui ça fait deux, mais, il a envie d’une application web qui 
+permettrai aux visiteurs de visualiser les animaux, leurs états et visualiser les services ainsi que 
+les horaires du zoo. Ne sachant pas comment faire, José à demander à Josette, son assistante, 
+de trouver une entreprise lui permettant d’obtenir cette application et augmenter ainsi la 
+notoriété et l’image de marque du zoo. 
+Après l’obtention de votre diplôme, vous avez été embauché au sein de DevSoft, entreprise 
+qui a été choisi par Josette afin de réaliser l’application. 
 
 
 ---
