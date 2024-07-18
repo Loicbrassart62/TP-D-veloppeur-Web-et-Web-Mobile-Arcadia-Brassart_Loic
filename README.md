@@ -156,6 +156,11 @@ Josette a choisi DevSoft, où je suis embauché après l’obtention de mon dipl
   + Stockage des données dans une base de données non relationnelle.
   + Visualisation des données de consultation dans le Dashboard administrateur.
 
+
+
+## Partie 2 : Spécifications technique
+
+### <span style="text-decoration:underline">Réflexion initiale technologique sur le sujet</span>
     
 
 
