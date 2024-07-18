@@ -177,7 +177,7 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
 
       Vous avez tous fini d'installer XAMPP! Vous pouvez lancer un phpMyAdmin à tout moment en démarrant dans le Control Panel de XAMPP.
 
-      - **Mettre le site en local avec XAMPP**
+    - **Mettre le site en local avec XAMPP**
 
  
 
