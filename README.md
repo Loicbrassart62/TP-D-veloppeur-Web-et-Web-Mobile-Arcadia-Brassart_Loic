@@ -162,42 +162,16 @@ Josette a choisi DevSoft, où je suis embauché après l’obtention de mon dipl
 
 ### <span style="text-decoration:underline">Réflexion initiale technologique sur le sujet</span>
     
+Plusieurs choix s'offrent à moi quand aux technologies à employer pour le site. Premièrement le design du site, du HTML 5 pour la stucture ainsi que du CSS 3 et du Javascript pour la stylisation et deuxièment du PHP pour intégrer les données directement sur le site et une base de données MySQL avec phpMyAdmin.
+
+Pour le language utilisé pour le Backend, le PHP est un language que j'ai appris durant les cours sur STUDI, language très utilisé de nos jours, et des serveurs pouvant être simples à configurer. Les données seront confiées à MySQL pour répondre au besoin de l'examen. De ce choix, je choisirais le PHP ainsi que MySQL.
+
+Pour la partie Frontend, le HTML 5 sera présent pour la structure du site c'est un language très simple à mettre en place, pour le style le CSS 3 fera place et en dernier du JavaScript pour des fonctionnalités supplémentaires.
+
+Voici donc tous mes choix pour les languages à employés.
 
 
 
-
-
-
-
-
-
-### <span style="text-decoration:underline">Configuration de l'environement de travail</span>
-
-Travaillant sur un système d'exploitation de type `Windows`, les informations ci-dessous y seront bien évidement destinées.
-
-Les commandes seront de type `Linux` mais elle pouront être exécuter sous un système `Linux` dans `Windows` qui se nommera `Unbuntu`.
-
-- **Serveur:**
-    + Apache
-    + PHP 8.2.12
-    + phpMyAdmin 5.2.1 / PDO
-      
-
-
-- **Backend (API)**
-    + PHP 8.2.12
-    + phpMyAdmin 5.2.1 / PDO
-      
-      
-
-- **Frontend**
-    + HTML 5
-    + CSS 3
-    + Javascript
-      
-      
-
----
 
 ## Utilisation
 
