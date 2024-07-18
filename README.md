@@ -387,8 +387,7 @@ C'est pourquoi, aucune liaison / relation ne sera représentée sur la modélisa
 
 ### <span style="text-decoration:underline">Polices d'écritures</span>
 
-<span style="color:red">**[Police d'écriture 1]([https://fonts.google.com/specimen/Boogaloo?preview.layout=grid&query=boog)**</span>
-<span style="color:red">**[Police d'écriture 2]([https://fonts.google.com/specimen/Gloria+Hallelujah?preview.layout=grid&query=gloria)**</span>
+<span style="color:red">**[Polices d'écriture 1](https://fonts.google.com/specimen/Boogaloo?preview.layout=grid&query=boog)**</span>
 
 
 ### <span style="text-decoration:underline">Logo</span>
