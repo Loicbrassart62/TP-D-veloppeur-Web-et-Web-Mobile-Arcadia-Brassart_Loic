@@ -148,7 +148,7 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
     Enfin, exécutez cette commande pour vérifier les dépendances et supprimer les packages obsolètes du système (en fonction de la durée de l'étape précédente, vous devrez peut-être saisir à nouveau notre mot de passe): ```sudo apt-get dist-upgrade``` et encore 
     une fois, entrez ```Y``` à l'invite pour installer les packages répertoriés.
 
-   Vous avez tous fini d'installer et de mettre à jour Ubuntu Linux! Vous pouvez lancer un terminal Linux à tout moment en sélectionnant Ubuntu depuis le menu de démarrage.
+    Vous avez tous fini d'installer et de mettre à jour Ubuntu Linux! Vous pouvez lancer un terminal Linux à tout moment en sélectionnant Ubuntu depuis le menu de démarrage.
   
 ## Diagramme des Cas d'utilisations
 
