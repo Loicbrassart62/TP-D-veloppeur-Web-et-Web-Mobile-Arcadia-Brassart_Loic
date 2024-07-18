@@ -176,6 +176,8 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
     - **3-**
       Ensuite cliquer sur Admin pour le module MySQL et vous arriverez sur la page phpMyAdmin ou en tapant directement dans votre barre de recherche localhost.
 
+      Vous avez tous fini d'installer XAMPP! Vous pouvez lancer un phpMyAdmin à tout moment en démarrant dans le Control Panel de XAMPP.
+
  
 
   
