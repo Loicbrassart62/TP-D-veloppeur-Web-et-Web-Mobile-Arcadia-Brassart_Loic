@@ -152,7 +152,7 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
 
     - **Installation de XAMPP**
 
-    XAMPP est un ensemble de logiciels permettant de mettre en place un serveur Web local, un serveur FTP et un serveur de messagerie électronique.
+     XAMPP est un ensemble de logiciels permettant de mettre en place un serveur Web local, un serveur FTP et un serveur de messagerie électronique.
 
   
 ## Diagramme des Cas d'utilisations
