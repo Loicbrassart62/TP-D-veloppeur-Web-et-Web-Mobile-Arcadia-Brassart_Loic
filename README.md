@@ -157,7 +157,7 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
     - **Étape 1: Télécharger XAMPP sur windows**
    
     - **1-**
-    **Lien pour télécharger XAMPP ** : <span style="color:red">**[url de xampp](https://www.apachefriends.org/download.html)**</span> et télécharger la dernière version de XAMPP pour Windows.
+    **Lien pour télécharger XAMPP ** : <span style="color:red">**[url de xampp](https://www.apachefriends.org/download.html)**</span> et choisir la dernière version de XAMPP pour Windows.
 
  
 
