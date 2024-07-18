@@ -1,6 +1,4 @@
 # TP – Développeur Web et Web Mobile
-## Graduate Développeur Web et Web Mobile 
-
 
 ---
 
