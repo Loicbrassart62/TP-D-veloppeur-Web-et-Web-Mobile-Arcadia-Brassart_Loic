@@ -140,6 +140,21 @@ Josette a choisi DevSoft, où je suis embauché après l’obtention de mon dipl
   + Formulaire de contact avec champs : Titre, Description, Mail.
   + Envoi de la demande par mail au zoo.
   + Interface pour les employés pour répondre aux demandes via mail.
+    
+
+- **Statistique sur la consultation des habitats**
+
+   Description du besoin :
+  
+     + Chaque clic sur un animal par un visiteur incrémente un compteur de consultations pour cet animal.
+     + Stockage de cette information dans une base de données non relationnelle.
+     + Utilisation de ces données dans le Dashboard de l'administrateur.
+
+    Spécifications fonctionnelle :
+  
+  + Incrémentation du compteur de consultation par clic.
+  + Stockage des données dans une base de données non relationnelle.
+  + Visualisation des données de consultation dans le Dashboard administrateur.
 
     
 
