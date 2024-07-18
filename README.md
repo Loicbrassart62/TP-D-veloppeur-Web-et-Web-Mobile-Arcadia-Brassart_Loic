@@ -129,14 +129,17 @@ Josette a choisi DevSoft, où je suis embauché après l’obtention de mon dipl
 - **Espace Contact**
 
    Description du besoin :
-      + Connexion réservée aux administrateurs, vétérinaires et employés.
-      + Un visiteur ne peut pas créer de compte ni se connecter.
+  
+     + Formulaire de connexion avec champs : Username (mail), Mot de passe.
+     + Formulaire de connexion avec champs : Username (mail), Mot de passe.
 
     Spécifications fonctionnelle :
-      + Formulaire de connexion avec champs : Username (mail), Mot de passe.
-      + Restrictions empêchant la création de comptes visiteurs.
+  
+  + Formulaire de connexion avec champs : Username (mail), Mot de passe.
+  + Restrictions empêchant la création de comptes visiteurs.
 
     
+
 
 
 
