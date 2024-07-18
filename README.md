@@ -154,7 +154,7 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
 
     XAMPP est un ensemble de logiciels permettant de mettre en place un serveur Web local, un serveur FTP et un serveur de messagerie électronique.
 
-    - **Étape 1: Télécharger XAMPP sur windows**
+    - **Étape 1: Télécharger XAMPP sur Windows**
    
     - **1-**
      Lien pour télécharger XAMPP : <span style="color:red">[url de xampp](https://www.apachefriends.org/download.html)</span> et choisir la dernière version de XAMPP pour Windows.
