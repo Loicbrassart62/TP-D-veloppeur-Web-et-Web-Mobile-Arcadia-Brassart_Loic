@@ -68,6 +68,24 @@ Josette a choisi DevSoft, où je suis embauché après l’obtention de mon dipl
      + Système de soumission de l'avis.
      + Interface pour validation des avis par les employés.
      + Les avis validés apparaissent sur la page d'accueil.
+
+ - **Espace Administrateur**
+
+    Description du besoin :
+      + Création de comptes de type "employé" et "vétérinaire".
+      + Fournir un courriel (username) et un mot de passe pour la création de comptes.
+      + L'utilisateur reçoit un mail avec son username (sans mot de passe).
+      + Modification des services, horaires, habitats et animaux du zoo.
+      + Accès aux comptes rendus vétérinaires avec filtres par animal et date.
+      + Dashboard affichant le nombre de consultations par animal.
+
+     Spécifications fonctionnelle :
+
+      + Formulaire de création de compte avec champs : Courriel, Mot de passe.
+      + Interface de gestion des services, horaires, habitats et animaux.
+      + Section pour visualiser et filtrer les comptes rendus vétérinaires.
+      + Dashboard de statistiques de consultation des animaux.
+      + Envoi de mail de création de compte.
   
 
 
