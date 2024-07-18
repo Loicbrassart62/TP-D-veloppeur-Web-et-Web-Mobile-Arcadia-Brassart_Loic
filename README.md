@@ -148,7 +148,7 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
     Enfin, exécutez cette commande pour vérifier les dépendances et supprimer les packages obsolètes du système (en fonction de la durée de l'étape précédente, vous devrez peut-être saisir à nouveau notre mot de passe): ```sudo apt-get dist-upgrade``` et encore 
     une fois, entrez ```Y``` à l'invite pour installer les packages répertoriés.
 
-    Vous avez tous fini d'installer et de mettre à jour Ubuntu Linux! Vous pouvez lancer un terminal Linux à tout moment en sélectionnant Ubuntu depuis le menu de démarrage.
+    Vous avez fini d'installer et de mettre à jour Ubuntu Linux! Vous pouvez lancer un terminal Linux à tout moment en sélectionnant Ubuntu depuis le menu de démarrage.
 
     - **Installation de XAMPP sur Windows**
 
@@ -175,7 +175,7 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
     - **3-**
       Ensuite cliquer sur `Admin` pour le module MySQL et vous arriverez sur la page phpMyAdmin ou en tapant directement dans votre barre de recherche localhost.
 
-      Vous avez tous fini d'installer XAMPP! Vous pouvez lancer un phpMyAdmin à tout moment en démarrant dans le Control Panel de XAMPP.
+      Vous avez fini d'installer XAMPP! Vous pouvez lancer un phpMyAdmin à tout moment en démarrant dans le Control Panel de XAMPP.
 
     - **Mettre le site en local avec XAMPP**
    
@@ -203,6 +203,10 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
      
       - **3-**
         Il faut changer de port pour le serveur qui se trouve en haut à droite du Control Panel dans `Config`, ensuite aller dans `Service and Port Settings` et `MySQL` pour remplacer le `Main Port` par `3306`.
+
+        Vous avez fini de configurer phpMyAdmin! Maintenant nous allons voir comment intégrer les bases de données SQL qui seront fournis.
+
+      - **Intégrer les bases de données SQL**
  
 
   
