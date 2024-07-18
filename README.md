@@ -57,7 +57,7 @@ Josette a choisi DevSoft, où je suis embauché après l’obtention de mon dipl
 ### <span style="text-decoration:underline">Cahier des charges</span> 
 
 - **Avis**
-  **Description du besoin :**
+ - **Description du besoin :**
   
 
 
