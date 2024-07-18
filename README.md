@@ -79,7 +79,7 @@ Josette a choisi DevSoft, où je suis embauché après l’obtention de mon dipl
       + Accès aux comptes rendus vétérinaires avec filtres par animal et date.
       + Dashboard affichant le nombre de consultations par animal.
 
-     Spécifications fonctionnelle :
+    Spécifications fonctionnelle :
 
       + Formulaire de création de compte avec champs : Courriel, Mot de passe.
       + Interface de gestion des services, horaires, habitats et animaux.
@@ -87,6 +87,46 @@ Josette a choisi DevSoft, où je suis embauché après l’obtention de mon dipl
       + Dashboard de statistiques de consultation des animaux.
       + Envoi de mail de création de compte.
   
+   - **Espace Employé**
+
+    Description du besoin :
+      + Validation ou invalidation des avis des visiteurs.
+      + Modification des services du zoo.
+      + Enregistrement de la consommation alimentaire des animaux (date, heure, type de nourriture, quantité).
+
+    Spécifications fonctionnelle :
+
+      + Interface de validation des avis.
+      + Interface de modification des services.
+      + Formulaire d'enregistrement de la consommation alimentaire par animal (date, heure, nourriture, quantité).
+ 
+   - **Espace Vétérinaire**
+
+    Description du besoin :
+      + Remplissage quotidien des comptes rendus par animal.
+      + Ajout de commentaires sur l'état des habitats.
+      + Visualisation de l'alimentation des animaux enregistrée par les employés.
+
+    Spécifications fonctionnelle :
+      + Formulaire de comptes rendus par animal.
+      + Section pour ajouter des commentaires sur les habitats.
+      + Tableau de bord montrant l'historique alimentaire des animaux.
+  
+    - **Espace Connexion**
+
+    Description du besoin :
+      + Connexion réservée aux administrateurs, vétérinaires et employés.
+      + Un visiteur ne peut pas créer de compte ni se connecter.
+
+    Spécifications fonctionnelle :
+      + Formulaire de connexion avec champs : Username (mail), Mot de passe.
+      + Restrictions empêchant la création de comptes visiteurs.
+
+
+
+
+
+
 
 
 ### <span style="text-decoration:underline">Configuration de l'environement de travail</span>
