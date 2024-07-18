@@ -128,10 +128,13 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
   - **5-**
     Une fenêtre de terminal apparaîtra. Attendez qu'Ubuntu termine l'installation, puis créez un nouveau nom d'utilisateur et mot de passe Linux lorsque vous y êtes invité. Vous êtes maintenant à votre nouvelle ligne de commande Linux!
     
-- **Étape 3: Installer et mettre à jour Ubuntu**
+- **Étape 3: Configurer Ubuntu**
   
   - **1-**
-    Le moment est venu de vous assurer que votre logiciel installé est à jour. Dans Ubuntu, vous pouvez utiliser le ```$ apt update``` dans la commande pour mettre à jour automatiquement tous les packages.
+    Le moment est venu de vous assurer que votre logiciel installé est à jour. Dans Ubuntu, vous pouvez utiliser le ```apt get``` dans la commande pour mettre à jour automatiquement tous les packages.
+
+  - **1-**
+    Nous devrons mettrons à jour les listes de paquets. Entrez la commande ci-dessous (notez que vous devez utiliser sudo et entrez votre mot de passe pour exécuter la commande en tant qu'administrateur): ```sudo apt-get update [sudo] mot de passe pour aaron:```
 
 ## Diagramme des Cas d'utilisations
 
