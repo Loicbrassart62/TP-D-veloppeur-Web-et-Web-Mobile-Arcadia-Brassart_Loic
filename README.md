@@ -165,6 +165,8 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
       Quand vous arriverez sur la page d'installation continuer jusqu'a la sélection des composants à installer et ensuite cocher les cases : MySQL, Apache, PHP et phpMyAdmin et continuez jusqu'a la fin de l'installation. Lorsque que vous arrivez à la fin de 
       l'installation cocher la case pour ouvrir le Control Panel.
 
+    - **Étape 3: Configurer le Control Panel de XAMPP**
+
  
 
   
