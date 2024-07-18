@@ -31,7 +31,7 @@ Nous vous demandons de vous mettre en situation d’examen. Prenez le temps de l
 
 **Github** : https://github.com/Loicbrassart62/TP_DWWM_Nov-Dec24-copiearendre_BRASSART_Loic
 
-**Démonstration** : <span style="color:red">**Url du site**</span>
+**Démonstration** : <span style="color:red">Url du site</span>
 
     Adresse email démo      : 
     Mot de passe démo       : 
@@ -157,7 +157,7 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
     - **Étape 1: Télécharger XAMPP sur windows**
    
     - **1-**
-    **Lien pour télécharger XAMPP ** : <span style="color:red">[url de xampp](https://www.apachefriends.org/download.html)</span> et choisir la dernière version de XAMPP pour Windows.
+     Lien pour télécharger XAMPP : <span style="color:red">[url de xampp](https://www.apachefriends.org/download.html)</span> et choisir la dernière version de XAMPP pour Windows.
 
  
 
