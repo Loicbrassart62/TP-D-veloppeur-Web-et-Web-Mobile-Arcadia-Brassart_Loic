@@ -264,7 +264,7 @@ Voici donc tous mes choix pour les languages à employés.
     - **Étape 1: Mettre le site en local avec XAMPP**
       
     - **1-**
-      Mettre le fichier du site web `Arcadia` dans XAMPP vers le chemin : `\xampp\htdocs`, le fichier htdocs contiendra toujours le site web.
+      Mettre le fichier du site web en le nommant `Arcadia` dans XAMPP vers le chemin : `\xampp\htdocs`, le fichier htdocs contiendra toujours le site web.
 
     - **Étape 2: Configurer phpMyAdmin**
 
