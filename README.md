@@ -55,14 +55,8 @@ Financièrement, Arcadia se porte bien et les animaux y sont heureux, ce qui fai
 Josette a choisi DevSoft, où je suis embauché après l’obtention de mon diplôme. Ma mission est de créer cette application web, contribuant ainsi à améliorer la notoriété et l'image de marque du zoo Arcadia, tout en offrant une expérience enrichissante et interactive aux visiteurs.
 
 ### <span style="text-decoration:underline">Cahier des charges</span> 
+<span style="text-decoration:underline">Cahier des charges</span> 
 
-Plusieurs choix s'offrent à moi quand aux technologies à employer pour le site. Premièrement le design du site, du HTML 5 pour la stucture ainsi que du CSS 3 et du Javascript pour la stylisation et deuxièment du PHP pour intégrer les données directement sur le site et une base de données MySQL avec phpMyAdmin.
-
-Pour le language utilisé pour le Backend, le PHP est un language que j'ai appris durant les cours sur STUDI, language très utilisé de nos jours, et des serveurs pouvant être simples à configurer. Les données seront confiées à MySQL pour répondre au besoin de l'examen. De ce choix, je choisirais le PHP ainsi que MySQL.
-
-Pour la partie Frontend, le HTML 5 sera présent pour la structure du site c'est un language très simple à mettre en place, pour le style le CSS 3 fera place et en dernier du JavaScript pour des fonctionnalités supplémentaires.
-
-Voici donc tous mes choix pour les languages à employés.
 
 ### <span style="text-decoration:underline">Configuration de l'environement de travail</span>
 
