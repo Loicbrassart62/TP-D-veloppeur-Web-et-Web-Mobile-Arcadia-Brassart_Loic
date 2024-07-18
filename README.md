@@ -46,7 +46,7 @@ Nous vous demandons de vous mettre en situation d’examen. Prenez le temps de l
 
 ## Partie 1 : Analyse des besoins 
 
-### <span style="text-decoration:underline">Résumé du projet ainsi que du cahiers des charges</span>
+### <span style="text-decoration:underline">Résumé du projet</span>
 
 Arcadia est un zoo français, établi près de la forêt de Brocéliande en Bretagne depuis 1960. Abritant une diversité d’animaux répartis par habitat, comme la savane, la jungle et les marais, le zoo met un point d’honneur à assurer la santé et le bien-être de ses pensionnaires. Chaque jour, plusieurs vétérinaires effectuent des contrôles rigoureux avant l’ouverture pour garantir que les animaux sont en bonne santé. La nourriture des animaux est soigneusement dosée selon les recommandations vétérinaires.
 
