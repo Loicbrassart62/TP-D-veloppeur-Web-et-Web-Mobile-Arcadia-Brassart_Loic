@@ -200,7 +200,9 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
       - $cfg['Lang'] = '';
       - $cfg['Servers'][$i]['host'] = 'localhost';
       - $cfg['Servers'][$i]['connect_type'] = 'tcp';
-
+     
+      - **3-**
+        Il faut changer de port pour le serveur qui se trouve en haut à droite du Control Panel dans `Config`, ensuite aller dans `Service and Port Settings` et `MySQL` pour remplacer le `Main Port` par `3306`.
  
 
   
