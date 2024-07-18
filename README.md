@@ -131,7 +131,7 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
 - **Étape 3: Installer et mettre à jour Ubuntu**
   
   - **1-**
-    Le moment est venu de vous assurer que votre logiciel installé est à jour. Dans Ubuntu, vous pouvez utiliser le ```bash $ apt update``` commande pour mettre à jour automatiquement tous les packages.
+    Le moment est venu de vous assurer que votre logiciel installé est à jour. Dans Ubuntu, vous pouvez utiliser le ```$ apt update``` dans la commande pour mettre à jour automatiquement tous les packages.
 
 ## Diagramme des Cas d'utilisations
 
