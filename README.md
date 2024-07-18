@@ -296,7 +296,7 @@ Voici donc tous mes choix pour les languages à employés.
       - **2-**
         Dans phpMyAdmin la table `arcadia` sera intégrer ainsi les fonctionnalités du site fonctionneront.
 
-         Voilà avez fini d'intégrer les données SQL  dans phpMyAdmin! Maintenant les fonctionnalités du site fonctionneront.
+         Voilà vous avez fini d'intégrer les données SQL  dans phpMyAdmin! Maintenant les fonctionnalités du site fonctionneront.
  
 
   
