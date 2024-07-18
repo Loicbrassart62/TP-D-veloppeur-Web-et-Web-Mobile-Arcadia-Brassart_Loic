@@ -4,7 +4,7 @@
 
 ---
 
-## Énoncé
+## Présentation du sujet
 
 **Votre examen comporte :**
 
