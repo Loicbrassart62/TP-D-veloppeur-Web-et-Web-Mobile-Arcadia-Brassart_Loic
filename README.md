@@ -198,7 +198,6 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
       - $cfg['Servers'][$i]['extension'] = 'mysqli';
       - $cfg['Servers'][$i]['AllowNoPassword'] = true;
       - $cfg['Lang'] = '';
-      -
       - $cfg['Servers'][$i]['host'] = 'localhost';
       - $cfg['Servers'][$i]['connect_type'] = 'tcp';
 
