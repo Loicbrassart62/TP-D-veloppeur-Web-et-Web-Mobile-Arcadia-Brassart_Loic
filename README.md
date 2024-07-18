@@ -180,6 +180,9 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
     - **Mettre le site en local avec XAMPP**
    
     - **Étape 1: Mettre le site en local avec XAMPP**
+      
+    - **1-**
+      Mettre le fichier du site web dans XAMPP vers le chemin : `C:\xampp\htdocs`, le fichier htdocs contiendra toujours le site web.
 
  
 
