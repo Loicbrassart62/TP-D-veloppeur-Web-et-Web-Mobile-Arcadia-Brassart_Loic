@@ -59,6 +59,7 @@ Josette a choisi DevSoft, où je suis embauché après l’obtention de mon dipl
 - **Avis**
   
    Description du besoin :
+    + PHP 8.2.12
   
 
 
