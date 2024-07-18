@@ -154,6 +154,8 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
 
     XAMPP est un ensemble de logiciels permettant de mettre en place un serveur Web local, un serveur FTP et un serveur de messagerie électronique.
 
+    - **Étape 1: Activer le sous-système Linux**
+
  
 
   
