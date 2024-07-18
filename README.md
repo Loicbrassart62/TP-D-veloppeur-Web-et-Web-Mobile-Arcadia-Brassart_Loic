@@ -172,8 +172,7 @@ Voici donc tous mes choix pour les languages à employés.
 
 
 
-
-## Utilisation
+## Configuration de l'environement de travail
 
 ### <span style="text-decoration:underline">Installer l'application en local</span>
 
