@@ -44,9 +44,9 @@ Nous vous demandons de vous mettre en situation d’examen. Prenez le temps de l
 
 ---
 
-## Réflexion initiale technologique sur le sujet et configuration de l'environement de travail
+## Partie 1 : Analyse des besoins 
 
-### <span style="text-decoration:underline">Résumé du besoin et choix des technologies</span>
+### <span style="text-decoration:underline">Résumé du projet ainsi que du cahiers des charges</span>
 
 Le directeur José du zoo Arcadia à un besoin d’une application web dont les couleurs et le thème font penser à de l’écologie et montrer que le zoo est entièrement indépendant au niveau des énergies et il faut que lorsqu’un utilisateur consulte l’application, il ressente les valeurs de l’écologie. Les visiteurs pourront visualiser les animaux, leur état et visualiser les services ainsi que les horaires du zoo.
 
