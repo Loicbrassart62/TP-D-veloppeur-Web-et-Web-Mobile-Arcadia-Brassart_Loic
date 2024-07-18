@@ -86,8 +86,9 @@ Josette a choisi DevSoft, où je suis embauché après l’obtention de mon dipl
       + Section pour visualiser et filtrer les comptes rendus vétérinaires.
       + Dashboard de statistiques de consultation des animaux.
       + Envoi de mail de création de compte.
+        
   
-    - **Espace Employé**
+ - **Espace Employé**
 
     Description du besoin :
       + Validation ou invalidation des avis des visiteurs.
@@ -99,8 +100,9 @@ Josette a choisi DevSoft, où je suis embauché après l’obtention de mon dipl
       + Interface de validation des avis.
       + Interface de modification des services.
       + Formulaire d'enregistrement de la consommation alimentaire par animal (date, heure, nourriture, quantité).
+        
  
-    - **Espace Vétérinaire**
+  - **Espace Vétérinaire**
 
     Description du besoin :
       + Remplissage quotidien des comptes rendus par animal.
@@ -111,8 +113,9 @@ Josette a choisi DevSoft, où je suis embauché après l’obtention de mon dipl
       + Formulaire de comptes rendus par animal.
       + Section pour ajouter des commentaires sur les habitats.
       + Tableau de bord montrant l'historique alimentaire des animaux.
+        
   
-     - **Espace Connexion**
+    - **Espace Connexion**
 
     Description du besoin :
       + Connexion réservée aux administrateurs, vétérinaires et employés.
