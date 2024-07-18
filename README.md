@@ -126,7 +126,7 @@ Josette a choisi DevSoft, où je suis embauché après l’obtention de mon dipl
       + Restrictions empêchant la création de comptes visiteurs.
         
   
-    - **Espace Contact**
+- **Espace Contact**
 
     Description du besoin :
       + Un visiteur peut contacter le zoo via un formulaire sur la page contact.
