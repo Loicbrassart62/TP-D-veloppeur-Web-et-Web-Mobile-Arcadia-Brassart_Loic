@@ -150,7 +150,7 @@ Les commandes seront de type `Linux` mais elle pouront être exécuter sous un s
 
     Vous avez tous fini d'installer et de mettre à jour Ubuntu Linux! Vous pouvez lancer un terminal Linux à tout moment en sélectionnant Ubuntu depuis le menu de démarrage.
 
-    - **Installation de XAMPP**
+    - **Installation de XAMPP sur Windows**
 
     XAMPP est un ensemble de logiciels permettant de mettre en place un serveur Web local, un serveur FTP et un serveur de messagerie électronique.
 
