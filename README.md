@@ -380,12 +380,12 @@ C'est pourquoi, aucune liaison / relation ne sera représentée sur la modélisa
 
 ## Charte graphique
 
+### <span style="text-decoration:underline">Palette de couleurs</span>
+
+<span style="color:red">**[url du trello](https://trello.com/invite/b/662f3fc9a1272f660ed52479/ATTIa3128884f4bb6fc2ddfe9bdd7ed851cbF02B469D/arcadia-ecf-brassartloic)**</span>
+
+
 ### <span style="text-decoration:underline">Polices d'écritures</span>
-
-<span style="color:red">**FICHIER Palette de couleurs.pdf**</span>
-
-
-### <span style="text-decoration:underline">Palettes de couleur</span>
 
 <span style="color:red">**planche de palettes de couleur**</span>
 
