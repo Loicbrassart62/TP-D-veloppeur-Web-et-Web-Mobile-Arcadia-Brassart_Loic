@@ -264,7 +264,7 @@ Voici donc tous mes choix pour les languages à employés.
     - **Étape 1: Mettre le site en local avec XAMPP**
       
     - **1-**
-      Mettre le fichier du site web `Arcadia` dans XAMPP vers le chemin : `C:\xampp\htdocs`, le fichier htdocs contiendra toujours le site web.
+      Mettre le fichier du site web `Arcadia` dans XAMPP vers le chemin : `\xampp\htdocs`, le fichier htdocs contiendra toujours le site web.
 
     - **Étape 2: Configurer phpMyAdmin**
 
@@ -291,6 +291,10 @@ Voici donc tous mes choix pour les languages à employés.
       - **Intégrer les bases de données SQL**
 
       - **1-**
+        Dans le fichier `\xampp\mysql` aller dans `data` mettre le fichier des données SQL et le nommer `arcadia`.
+
+      - **2-**
+        Dans phpMyAdmin la table `arcadia` sera intégrer ainsi les fonctionnalités du site fonctionneront.
  
 
   
