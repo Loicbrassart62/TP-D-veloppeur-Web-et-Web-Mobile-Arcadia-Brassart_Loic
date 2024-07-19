@@ -16,7 +16,7 @@ try {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./CSS/admin.css?v=<?php echo time(); ?>">
+    <link rel="stylesheet" href="/CSS/admin.css?v=<?php echo time(); ?>">
     <title>Espace Administrateur</title>
 </head>
 
@@ -87,10 +87,10 @@ try {
                         <th>Consultations</th>
                     </tr>
                     <?php foreach ($animals as $animal): ?>
-                    <tr>
-                        <td><?php echo htmlspecialchars($animal['name']); ?></td>
-                        <td><?php echo htmlspecialchars($animal['consultations']); ?></td>
-                    </tr>
+                        <tr>
+                            <td><?php echo htmlspecialchars($animal['name']); ?></td>
+                            <td><?php echo htmlspecialchars($animal['consultations']); ?></td>
+                        </tr>
                     <?php endforeach; ?>
                 </table>
             </div>

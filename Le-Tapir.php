@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./CSS/le-tapir.css?v=<?php echo time(); ?>">
+    <link rel="stylesheet" href="/CSS/leTapir.css?v=<?php echo time(); ?>">
     <script src="https://kit.fontawesome.com/9c87998ff2.js" crossorigin="anonymous"></script>
     <title>Arcadia</title>
 </head>

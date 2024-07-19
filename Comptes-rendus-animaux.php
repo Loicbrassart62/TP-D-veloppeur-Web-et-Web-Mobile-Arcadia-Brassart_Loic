@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./CSS/comptes-rendus-animaux.css?v=<?php echo time(); ?>">
+    <link rel="stylesheet" href="/CSS/comptes-rendus-animaux.css?v=<?php echo time(); ?>">
     <title>Espace Vétérinaire</title>
 </head>
 
@@ -51,9 +51,9 @@
                 <label for="animal_id">Prénom de l'animal:</label>
                 <select id="animal_id" name="animal_id" required>
                     <?php foreach ($animals as $animal): ?>
-                    <option value="<?= htmlspecialchars($animal['animal_id']) ?>">
-                        <?= htmlspecialchars($animal['prenom']) ?>
-                    </option>
+                        <option value="<?= htmlspecialchars($animal['animal_id']) ?>">
+                            <?= htmlspecialchars($animal['prenom']) ?>
+                        </option>
                     <?php endforeach; ?>
                 </select><br>
 
