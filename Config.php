@@ -1,9 +1,9 @@
 <?php
-$host = 'localhost';
+$host = '82ju8y.stackhero-network.com';
 $db = 'arcadia';
 $user = 'root';
-$pass = '';
-$port = '3306';
+$pass = 'feaisF6xNetsZdMf7mBVyx2Q3GpaaHJs';
+$port = '<PORT>';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;port=$port;dbname=$db;charset=$charset";
