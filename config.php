@@ -11,6 +11,8 @@ $options = [
     PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
     PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
     PDO::ATTR_EMULATE_PREPARES => false,
+    PDO::MYSQL_ATTR_SSL_CAPATH => '/etc/ssl/certs/',
+    PDO::MYSQL_ATTR_SSL_VERIFY_SERVER_CERT => true,
 ];
 
 try {
