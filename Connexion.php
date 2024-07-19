@@ -1,6 +1,6 @@
 <?php
 
-include ("/Config.php");
+include ('./config.php');
 
 
 $message = '';
