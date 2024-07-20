@@ -55,7 +55,7 @@ if (isset($_POST['pseudo']) && isset($_POST['message'])) {
     <div class="container">
         <div class="contact-form">
             <h2>Laisser nous un commentaire !</h2>
-            <form action=Avis.php method="POST">
+            <form action=avis.php method="POST">
                 <div class="form-group">
                     <label for="pseudo">Pseudo</label>
                     <input type="pseudo" id="pseudo" name="pseudo" required>
