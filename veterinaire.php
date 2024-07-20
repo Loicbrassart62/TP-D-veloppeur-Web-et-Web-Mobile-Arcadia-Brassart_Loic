@@ -27,7 +27,7 @@
                 <li class="nav-item dropdown">
                     <a href="Gestion-animaux-veterinaire.php" data-action="dropdown-toggle">Animaux</a>
                 </li>
-                <li class="nav-item"><a href="Connexion.php">Déconnexion</a></li>
+                <li class="nav-item"><a href="connexion.php">Déconnexion</a></li>
             </ul>
         </nav>
 
