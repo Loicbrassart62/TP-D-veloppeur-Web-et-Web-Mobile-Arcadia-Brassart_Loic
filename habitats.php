@@ -30,7 +30,7 @@
             <h2>Nos Habitats</h2>
             <div class="habitats-cards">
                 <div class="habitats-card">
-                    <a href="Biome-Savane.php">
+                    <a href="biomeSavane.php">
                         <div class="icon">
                             <img src="./Ressources/lion-7148207_1920.jpg" alt="Savane">
                         </div>
@@ -39,7 +39,7 @@
                     </a>
                 </div>
                 <div class="habitats-card">
-                    <a href="Biome-Marais.php">
+                    <a href="biomeMarais.php">
                         <div class="icon">
                             <img src="./Ressources/alligator-8308781_1920.jpg" alt="Marais">
                         </div>
@@ -48,7 +48,7 @@
                     </a>
                 </div>
                 <div class="habitats-card">
-                    <a href="Biome-Jungle.php">
+                    <a href="biomeJungle.php">
                         <div class="icon">
                             <img src="./Ressources/gorilla-7708352_1920.jpg" alt="Jungle">
                         </div>
