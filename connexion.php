@@ -42,7 +42,7 @@ if (isset($_POST['email']) && isset($_POST['password'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/CSS/connexion.css?v=<?php echo time(); ?>">
+    <link rel="stylesheet" href="/CSS/Connexion.css?v=<?php echo time(); ?>">
     <script src="https://kit.fontawesome.com/9c87998ff2.js" crossorigin="anonymous"></script>
     <title>Arcadia</title>
 </head>
