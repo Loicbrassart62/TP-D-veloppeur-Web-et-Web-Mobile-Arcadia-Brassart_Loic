@@ -14,40 +14,40 @@ if (isset($_GET['id'])) {
 
     switch ($id) {
         case 1:
-            header('Location: Le-Lion.php');
+            header('Location: leLion.php');
             break;
         case 2:
-            header('Location: Le-Zèbre.php');
+            header('Location: leZebre.php');
             break;
         case 3:
-            header('Location: La-Girafe.php');
+            header('Location: laGirafe.php');
             break;
         case 4:
-            header('Location: Le-Rhinocéros.php');
+            header('Location: leRhinoceros.php');
             break;
         case 5:
-            header('Location: La-Loutre.php');
+            header('Location: laLoputre.php');
             break;
         case 6:
             header('Location: Alligator.php');
             break;
         case 7:
-            header('Location: La-Tortue.php');
+            header('Location: laTortue.php');
             break;
         case 8:
-            header('Location: Le-Héron.php.');
+            header('Location: leHeron.php.');
             break;
         case 9:
-            header('Location: Le-Jaguar.php.');
+            header('Location: leJaguar.php.');
             break;
         case 10:
-            header('Location: Le-Toucan.php.');
+            header('Location: leToucan.php.');
             break;
         case 11:
-            header('Location: Le-Tapir.php.');
+            header('Location: leTapir.php.');
             break;
         case 12:
-            header('Location: Le-Gorille.php.');
+            header('Location: leGorille.php.');
             break;
         default:
             header('Location: index.php');
