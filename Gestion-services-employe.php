@@ -71,7 +71,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <li class="nav-item dropdown">
                     <a href="Gestion-alimentation-employe.php" data-action="dropdown-toggle">Gestion alimentation</a>
                 </li>
-                <li class="nav-item"><a href="Connexion.php">Déconnexion</a></li>
+                <li class="nav-item"><a href="connexion.php">Déconnexion</a></li>
             </ul>
         </nav>
 
