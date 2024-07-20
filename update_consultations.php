@@ -26,7 +26,7 @@ if (isset($_GET['id'])) {
             header('Location: leRhinoceros.php');
             break;
         case 5:
-            header('Location: laLoputre.php');
+            header('Location: laLoutre.php');
             break;
         case 6:
             header('Location: Alligator.php');
