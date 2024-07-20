@@ -70,7 +70,7 @@ include ('./Librairies/navbar.php');
                 <p>Visite du parc avec un guide (gratuit)</p>
             </div>
         </div>
-        <button class="btn"><a href="Services.php">Découvrir nos services<i
+        <button class="btn"><a href="services.php">Découvrir nos services<i
                     class="fa-solid fa-chevron-right"></i></button></a>
     </div>
 </section>
@@ -100,7 +100,7 @@ include ('./Librairies/navbar.php');
                 </div>
             </div>
         </div>
-        <button class="btn"><a href="Habitats.php">Découvrir nos habitats<i
+        <button class="btn"><a href="habitats.php">Découvrir nos habitats<i
                     class="fa-solid fa-chevron-right"></i></button></a>
     </div>
 </section>
