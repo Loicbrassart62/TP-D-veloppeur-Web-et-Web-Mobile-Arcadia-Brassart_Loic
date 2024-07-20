@@ -28,7 +28,7 @@ if ($result) {
 
 <section class="section-btn-avis">
     <button class="btn-avis">
-        <a href="Avis.php">Laisser un avis
+        <a href="avis.php">Laisser un avis
             <i class="fa-solid fa-chevron-right"></i>
         </a>
     </button>
