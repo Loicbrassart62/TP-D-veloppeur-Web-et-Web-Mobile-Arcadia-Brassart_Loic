@@ -8,25 +8,25 @@
         <div class="footer-column">
             <h4>Services</h4>
             <ul>
-                <li><a href="Services.php">Restauration</a></li>
-                <li><a href="Services.php">Visite en petit train</a></li>
-                <li><a href="Services.php">Visite avec guide</a></li>
+                <li><a href="services.php">Restauration</a></li>
+                <li><a href="services.php">Visite en petit train</a></li>
+                <li><a href="services.php">Visite avec guide</a></li>
             </ul>
         </div>
         <div class="footer-column">
             <h4>Habitats</h4>
             <ul>
-                <li><a href="Biome-Savane.php">Savane</a></li>
-                <li><a href="Biome-Marais.php">Marais</a></li>
-                <li><a href="Biome-Jungle.php">Jungle</a></li>
+                <li><a href="biomeSavane.php">Savane</a></li>
+                <li><a href="biomeMarais.php">Marais</a></li>
+                <li><a href="biomeJungle.php">Jungle</a></li>
             </ul>
         </div>
         <div class="footer-column">
             <h4>Liens utiles</h4>
             <ul>
                 <li><a href="index.php">Accueil</a></li>
-                <li><a href="Contact.php">Contact</a></li>
-                <li><a href="Connexion.php">Connexion</a></li>
+                <li><a href="contact.php">Contact</a></li>
+                <li><a href="connexion.php">Connexion</a></li>
             </ul>
         </div>
     </div>
