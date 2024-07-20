@@ -14,7 +14,7 @@
             <li class="nav-item"><a href="index.php">Accueil</a></li>
             <li class="nav-item"><a href="services.php">Services</a></li>
             <li class="nav-item dropdown">
-                <a href="Habitats.php" data-action="dropdown-toggle">Habitats<i
+                <a href="habitats.php" data-action="dropdown-toggle">Habitats<i
                         class="fa-solid fa-chevron-down"></i></a>
                 <div class="dropdown-menu">
                     <a class="dropdown-item" href="biomeSavane.php">Biome Savane</a>
