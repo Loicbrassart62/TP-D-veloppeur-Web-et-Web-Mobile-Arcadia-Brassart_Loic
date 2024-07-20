@@ -67,7 +67,7 @@ if (isset($_POST['email']) && isset($_POST['password'])) {
     <div class="container">
         <div class="login-container">
             <h2>Connexion</h2>
-            <form action="Connexion.php" method="POST">
+            <form action="connexion.php" method="POST">
                 <div class="input-group">
                     <label for="email">Email</label>
                     <input type="email" id="email" name="email" required>
