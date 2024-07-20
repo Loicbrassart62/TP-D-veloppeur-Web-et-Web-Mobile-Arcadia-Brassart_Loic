@@ -51,7 +51,7 @@ $roles = $requete->fetchAll(PDO::FETCH_ASSOC);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/CSS/utilisateurs.css?v=<?php echo time(); ?>">
+    <link rel="stylesheet" href="/CSS/Utilisateurs.css?v=<?php echo time(); ?>">
     <title>Gestion Utilisateurs</title>
 </head>
 
@@ -78,7 +78,7 @@ $roles = $requete->fetchAll(PDO::FETCH_ASSOC);
                     <a href="Gestion-rapport-veterinaire-admin.php" data-action="dropdown-toggle">Rapport
                         vétérinaire</a>
                 </li>
-                <li class="nav-item"><a href="Connexion.php">Déconnexion</a></li>
+                <li class="nav-item"><a href="connexion.php">Déconnexion</a></li>
             </ul>
         </nav>
 
