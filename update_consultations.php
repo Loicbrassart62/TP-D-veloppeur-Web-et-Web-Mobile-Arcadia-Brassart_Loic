@@ -35,19 +35,19 @@ if (isset($_GET['id'])) {
             header('Location: laTortue.php');
             break;
         case 8:
-            header('Location: leHeron.php.');
+            header('Location: leHeron.php');
             break;
         case 9:
-            header('Location: leJaguar.php.');
+            header('Location: leJaguar.php');
             break;
         case 10:
-            header('Location: leToucan.php.');
+            header('Location: leToucan.php');
             break;
         case 11:
-            header('Location: leTapir.php.');
+            header('Location: leTapir.php');
             break;
         case 12:
-            header('Location: leGorille.php.');
+            header('Location: leGorille.php');
             break;
         default:
             header('Location: index.php');
