@@ -16,7 +16,7 @@ try {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./CSS/gestion-rapport-veterinaire-admin.css?v=<?php echo time(); ?>">
+    <link rel="stylesheet" href="/CSS/gestion-rapport-veterinaire-admin.css?v=<?php echo time(); ?>">
     <title>Gestion rapport vétérinaire</title>
 </head>
 

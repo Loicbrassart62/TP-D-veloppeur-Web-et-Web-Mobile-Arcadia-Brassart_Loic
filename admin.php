@@ -1,6 +1,6 @@
 <?php
 
-include ('config.php');
+include ("config.php");
 
 try {
     $stmt = $pdo->query('SELECT name, consultations FROM consultation');

@@ -45,7 +45,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./CSS/gestion-services.css?v=<?php echo time(); ?>">
+    <link rel="stylesheet" href="/CSS/gestion-services.css?v=<?php echo time(); ?>">
     <title>Gestion Services</title>
 </head>
 
