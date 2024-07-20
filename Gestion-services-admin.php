@@ -72,7 +72,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <a href="Gestion-rapport-veterinaire-admin.php" data-action="dropdown-toggle">Rapport
                         vétérinaire</a>
                 </li>
-                <li class="nav-item"><a href="Connexion.php">Déconnexion</a></li>
+                <li class="nav-item"><a href="connexion.php">Déconnexion</a></li>
             </ul>
         </nav>
 
